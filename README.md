@@ -1,2 +1,2 @@
-# Tribes_Social_Network_Analysis
+# Tribes Social Network Analysis
 Tribes Social Network – Is a social network for the tribes of the Gahuku – Gama alliance who lives in New Guinea. The dataset is available in Network Repository website, it is an undirected graph that consists of 16 nodes represents the tribes while the edges are the links which represents the signed relationship between tribes. This dataset was selected to study the relationship between the tribes. Since it is a signed network the data has an extra column that contains the signs (1,-1) of each edge where 1 for alliance and -1 for enmity or hostile.
